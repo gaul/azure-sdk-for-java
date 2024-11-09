@@ -7,6 +7,7 @@
 ### Breaking Changes
 
 ### Bugs Fixed
+- Fixed an issue where BlobRange(0, 0) would send a -1 count.
 
 ### Other Changes
 
